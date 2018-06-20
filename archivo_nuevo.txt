@@ -1,2 +1,6 @@
 El ejercicio pide que agregue un archivo y luego lo commitee.
 
+Punto (d): 
+Realice algún cambio en el código y push al repositorio remoto
+Este cambio lo realizo en la RAMA: rama_nueva.
+
